@@ -1,0 +1,45 @@
+---
+
+NodeJS / Youtube Clone
+
+---
+
+--🥞 NodeJS, MongoDB, ES6, Express
+
+-- Theory
+
+Request / Response
+MVC
+Cookies
+Sessions
+Middlewares
+Authentication
+Security
+Routing
+Templates
+Models
+Relationships
+
+-- Packages
+
+NodeJS
+ES6
+Express
+Babel
+Pug
+Passport
+AJAX
+Webpack
+SCSS
+MongoDB
+Mongoose
+Multer
+NoSQL
+
+---
+
+🥞 #1 INTRODUCTION, #1.1 Requirement
+
+NodeJS 설치법 경로
+: https://github.com/nodesource/distributions/blob/master/README.md#debinstall
+
